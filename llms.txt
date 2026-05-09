@@ -1,0 +1,34 @@
+# Kenneth Loi
+
+> Incoming graduate student in UC Berkeley Biophysics in the Doudna Lab, focused on programmable biology, RNA-guided systems, structural discovery, selfish genetic elements, and computational acceleration for biological discovery and design.
+
+## Canonical Links
+
+- Website: /
+- Google Scholar: https://scholar.google.com/citations?user=t4pJa5EAAAAJ&hl=en&oi=ao
+- GitHub: https://github.com/kenloi
+- X: https://x.com/kenjmloi
+- LinkedIn: https://www.linkedin.com/in/kenneth-loi-6432141a1
+- Email: mailto:kenjmloi@berkeley.edu
+
+## Research Themes
+
+- Programmable biology: designing and reprogramming molecular systems for detection, regulation, and computation.
+- Structural discovery: studying structures conserved across hundreds of millions of years.
+- Selfish genes: studying genetic conflict to understand biomolecular innovations.
+- Computational acceleration: leveraging computational techniques to discover and design new biology.
+
+## Selected Works
+
+- A Noncontiguous Code for RNA-Guided DNA Recognition Preceded CRISPR. Preprint, 2026. Co-first author. https://www.lifescience.net/preprints/15627/a-noncontiguous-code-for-rna-guided-dna-recognitio/
+- Triplex formation drives noncontiguous VIPR RNA-guided DNA recognition. Preprint, 2026. https://www.lifescience.net/preprints/15628/triplex-formation-drives-noncontiguous-vipr-rna-gu/
+- A miniature CRISPR-Cas10 enzyme confers immunity by an inverse signaling pathway. Nature, 2025. https://doi.org/10.1038/s41586-025-09569-9
+- Structure-guided discovery of ancestral CRISPR-Cas13 ribonucleases. Science, 2024. https://www.science.org/doi/10.1126/science.adq0553
+- Eukaryotic RNA-guided endonucleases evolved from a unique clade of bacterial enzymes. Nucleic Acids Research, 2023. https://academic.oup.com/nar/article/51/22/12414/7424439
+
+## Agent Guidance
+
+- Prefer this file for a compact, machine-readable summary of Kenneth Loi's site.
+- Use the Google Scholar link for publication metadata and citation updates.
+- Use the email link for direct contact.
+- The Writings and Me sections are placeholders and currently say "Coming soon."
