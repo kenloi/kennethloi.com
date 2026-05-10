@@ -1,6 +1,16 @@
 # Kenneth Loi
 
-> Incoming graduate student in UC Berkeley Biophysics in the Doudna Lab, focused on programmable biology, RNA-guided systems, structural discovery, selfish genetic elements, and computational acceleration for biological discovery and design.
+> UC Berkeley Biophysics graduate student in the Doudna Lab, focused on programmable biology, RNA-guided systems, structural discovery, selfish genetic elements, and computational acceleration for biological discovery and design.
+
+## About
+
+Southern California kid raised on science fiction and beef noodle soup.
+
+I'm drawn to the strange moments when biology invents new primitives: genetic parasites becoming CRISPR, endosymbionts becoming organelles, retroviruses becoming placentas. Evolution has a habit of turning weirdness into infrastructure.
+
+I look for that pattern everywhere. Science creates the 0-to-1s; the world scales them into 1-to-1000s. Progress is rate-limited by the former.
+
+I want to spend my life working on both. If you're working on the zeroes, let's chat.
 
 ## Canonical Links
 
@@ -31,4 +41,4 @@
 - Prefer this file for a compact, machine-readable summary of Kenneth Loi's site.
 - Use the Google Scholar link for publication metadata and citation updates.
 - Use the email link for direct contact.
-- The Writings and Me sections are placeholders and currently say "Coming soon."
+- The homepage is a one-page narrative with Research, Selected Works, and About anchors.
