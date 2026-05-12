@@ -1,6 +1,6 @@
 # Kenneth Loi
 
-> UC Berkeley Biophysics graduate student in the Doudna Lab, focused on programmable biology, RNA-guided systems, structural discovery, selfish genetic elements, and computational discovery for biological discovery and design.
+> UC Berkeley Biophysics graduate student in the Doudna Lab, focused on molecular primitives, genetic conflict, and computational workflows for biological discovery and design.
 
 ## About
 
@@ -27,10 +27,9 @@ If you're working on zeroes, let's chat.
 
 ## Research Themes
 
-- Programmable biology: reprogramming RNA-guided systems for molecular detection, regulation, and cellular computation.
-- Structural discovery: discovering ancient molecular architectures conserved across hundreds of millions of years.
-- Selfish genes: using genetic conflict as a search engine for molecular innovation.
-- Computational discovery: building computational workflows to search sequence, structure, and evolution for programmable biology.
+- Molecular primitives: looking for biological mechanisms that can become reusable parts: recognition, cutting, sensing, regulation.
+- Genetic conflict: genetic parasites, immune systems, and mobile elements are a hotbed of evolutionary innovations.
+- Computation for discovery: building workflows to find mechanisms before they are obvious.
 
 ## Selected Works
 
