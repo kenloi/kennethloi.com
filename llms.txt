@@ -6,13 +6,15 @@
 
 Southern California kid raised on science fiction and beef noodle soup.
 
-Currently, I Study RNA-guided systems in the Doudna lab.
+Currently, I study RNA-guided systems in the Doudna lab.
 
 I'm drawn to the strange moments when biology invents new primitives: genetic parasites becoming CRISPR, endosymbionts becoming organelles, retroviruses becoming placentas. Evolution has a habit of turning weirdness into infrastructure.
 
-I look for that pattern everywhere. Science creates the 0-to-1s; the world scales them into 1-to-1000s. Progress is rate-limited by the former.
+That is the pattern I look for everywhere: strange mechanisms becoming primitives for new kinds of systems.
 
-I want to spend my life working on both. If you're working on the zeroes, let's chat.
+The world scales the 1-to-1000s, but progress is fundamentally limited by the 0-to-1s.
+
+If you're working on zeroes, let's chat.
 
 ## Canonical Links
 
