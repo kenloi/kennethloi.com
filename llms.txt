@@ -4,17 +4,9 @@
 
 ## About
 
-Southern California kid raised on science fiction and beef noodle soup.
+Grew up on Frank Herbert, Ted Chiang, and my grandmother's gong sik chaau min under the Southern California Sun.
 
-Currently, I study RNA-guided systems in the Doudna lab.
-
-I'm drawn to the strange moments when biology invents new primitives: genetic parasites becoming CRISPR, endosymbionts becoming organelles, retroviruses becoming placentas. Evolution has a habit of turning weirdness into infrastructure.
-
-That is the pattern I look for everywhere: strange mechanisms becoming primitives for new kinds of systems.
-
-The world scales the 1-to-1000s, but progress is fundamentally limited by the 0-to-1s.
-
-If you're working on zeroes, let's chat.
+Probably somewhere flipping rocks.
 
 ## Canonical Links
 
