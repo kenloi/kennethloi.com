@@ -28,7 +28,7 @@ If you're working on zeroes, let's chat.
 ## Research Themes
 
 - Molecular primitives: looking for biological mechanisms that can become reusable parts: recognition, cutting, sensing, regulation.
-- Genetic conflict: genetic parasites, immune systems, and mobile elements are a hotbed of evolutionary innovations.
+- Genetic conflict: parasites, immune systems, and mobile elements are a hotbed of evolutionary innovation.
 - Computation for discovery: building workflows to find mechanisms before they are obvious.
 
 ## Selected Works
