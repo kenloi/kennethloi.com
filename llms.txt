@@ -25,8 +25,8 @@ Probably somewhere flipping rocks.
 
 ## Selected Works
 
-- A Noncontiguous Code for RNA-Guided DNA Recognition Preceded CRISPR. Preprint, 2026. Co-first author. https://www.biorxiv.org/content/10.64898/2026.04.26.720920v1
-- Triplex formation drives noncontiguous VIPR RNA-guided DNA recognition. Preprint, 2026. https://www.biorxiv.org/content/10.64898/2026.04.26.720927v1
+- A noncontiguous code for RNA-guided DNA recognition at the origin of CRISPR-Cas. Science, 2026. Co-first author. https://www.science.org/doi/10.1126/science.aei0498
+- VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation. Science, 2026. https://www.science.org/doi/10.1126/science.aei3472
 - A miniature CRISPR-Cas10 enzyme confers immunity by an inverse signaling pathway. Nature, 2025. https://doi.org/10.1038/s41586-025-09569-9
 - Structure-guided discovery of ancestral CRISPR-Cas13 ribonucleases. Science, 2024. https://www.science.org/doi/10.1126/science.adq0553
 - Eukaryotic RNA-guided endonucleases evolved from a unique clade of bacterial enzymes. Nucleic Acids Research, 2023. https://academic.oup.com/nar/article/51/22/12414/7424439
