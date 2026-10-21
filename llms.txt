@@ -25,6 +25,7 @@ Probably somewhere flipping rocks.
 
 ## Selected Works
 
+- Lopez SC, Mayor EBT, Loi KJ, Armbruster EG, Yen E, Yoon PH, Doudna JA. Competition among viral elements for VIPR RNA-directed genome silencing. bioRxiv preprint, posted October 16, 2026. https://doi.org/10.64898/2026.10.15.759431
 - A noncontiguous code for RNA-guided DNA recognition at the origin of CRISPR-Cas. Science, 2026. Co-first author. https://www.science.org/doi/10.1126/science.aei0498
 - VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation. Science, 2026. https://www.science.org/doi/10.1126/science.aei3472
 - Structure and evolution-guided design of minimal RNA-guided nucleases. Science, 2026. https://www.science.org/doi/10.1126/science.aed6123
